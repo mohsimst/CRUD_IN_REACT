@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "MOHSIN ALI",
+      "email": "mohsinsubhan01@gmail.com",
+      "username": "1",
+      "phone": "+918630322370",
+      "id": 1
+    },
+    {
+      "name": "MOHSIN ALI",
+      "email": "mohsinsubhan01@gmail.com",
+      "username": "22updated",
+      "phone": "+918630322370",
+      "id": 2
+    },
+    {
+      "name": "MOHSIN ALI",
+      "email": "mohsinsubhan01@gmail.com",
+      "username": "33",
+      "phone": "+918630322370",
+      "id": 3
+    }
+  ]
+}
