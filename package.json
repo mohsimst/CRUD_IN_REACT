@@ -2,7 +2,7 @@
   "name": "crud_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://mohsimst.github.io/CRUD_IN_REACT",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@testing-library/jest-dom": "^5.14.1",
@@ -10,6 +10,7 @@
     "@testing-library/user-event": "^12.8.3",
     "axios": "^0.21.1",
     "concurrently": "^6.2.1",
+    "gh-pages": "^3.2.3",
     "json-server": "^0.16.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
