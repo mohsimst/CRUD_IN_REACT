@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/my-app/static/js/main.433aec69.chunk.js",
-    "main.js.map": "/my-app/static/js/main.433aec69.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.cf3214e0.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.cf3214e0.js.map",
-    "static/js/2.ce27f206.chunk.js": "/my-app/static/js/2.ce27f206.chunk.js",
-    "static/js/2.ce27f206.chunk.js.map": "/my-app/static/js/2.ce27f206.chunk.js.map",
-    "static/js/3.fd817f2b.chunk.js": "/my-app/static/js/3.fd817f2b.chunk.js",
-    "static/js/3.fd817f2b.chunk.js.map": "/my-app/static/js/3.fd817f2b.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/my-app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.ce27f206.chunk.js.LICENSE.txt": "/my-app/static/js/2.ce27f206.chunk.js.LICENSE.txt",
-    "static/media/NotFound.b684e5be.jpg": "/my-app/static/media/NotFound.b684e5be.jpg",
-    "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/CRUD_IN_REACT/static/css/main.a617e044.chunk.css",
+    "main.js": "/CRUD_IN_REACT/static/js/main.433aec69.chunk.js",
+    "main.js.map": "/CRUD_IN_REACT/static/js/main.433aec69.chunk.js.map",
+    "runtime-main.js": "/CRUD_IN_REACT/static/js/runtime-main.6647f4a5.js",
+    "runtime-main.js.map": "/CRUD_IN_REACT/static/js/runtime-main.6647f4a5.js.map",
+    "static/js/2.ce27f206.chunk.js": "/CRUD_IN_REACT/static/js/2.ce27f206.chunk.js",
+    "static/js/2.ce27f206.chunk.js.map": "/CRUD_IN_REACT/static/js/2.ce27f206.chunk.js.map",
+    "static/js/3.fd817f2b.chunk.js": "/CRUD_IN_REACT/static/js/3.fd817f2b.chunk.js",
+    "static/js/3.fd817f2b.chunk.js.map": "/CRUD_IN_REACT/static/js/3.fd817f2b.chunk.js.map",
+    "index.html": "/CRUD_IN_REACT/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/CRUD_IN_REACT/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ce27f206.chunk.js.LICENSE.txt": "/CRUD_IN_REACT/static/js/2.ce27f206.chunk.js.LICENSE.txt",
+    "static/media/NotFound.b684e5be.jpg": "/CRUD_IN_REACT/static/media/NotFound.b684e5be.jpg",
+    "static/media/logo.6ce24c58.svg": "/CRUD_IN_REACT/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf3214e0.js",
+    "static/js/runtime-main.6647f4a5.js",
     "static/js/2.ce27f206.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.433aec69.chunk.js"
